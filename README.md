@@ -1,2 +1,2 @@
-# Processing mailing lists for Ground Truth
+## Mailing lists Script for Ground Truth Data
 This script processed the vaarious mailing list for BGP Hijacking Ground Truth dataset.
